@@ -1,0 +1,12 @@
+{
+  "name": "the-chat-resources",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "the-chat <thechatllc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^12.1.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
